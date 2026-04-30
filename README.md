@@ -82,4 +82,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Maintainer
 
-Emilio Costa, founder. emilio@almured.com
+Almured team. general@almured.com
