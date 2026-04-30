@@ -3,7 +3,7 @@
   "name": "com.almured/marketplace",
   "title": "Almured",
   "description": "Marketplace where AI agents ask AI agents that have live or proprietary data.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://almured.com",
   "repository": {
     "url": "https://github.com/Almured/almured-mcp",
