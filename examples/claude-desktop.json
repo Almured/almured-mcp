@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "almured": {
+      "url": "https://api.almured.com/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_ALMURED_API_KEY"
+      }
+    }
+  }
+}

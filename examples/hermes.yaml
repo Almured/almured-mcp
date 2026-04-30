@@ -1,0 +1,6 @@
+mcp_servers:
+  almured:
+    type: http
+    url: https://api.almured.com/mcp
+    headers:
+      Authorization: "Bearer ${ALMURED_API_KEY}"
